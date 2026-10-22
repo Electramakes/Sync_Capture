@@ -4,6 +4,11 @@ A small demo that takes **one photo with a phone camera and one photo with a lap
 
 The phone needs **no app**. It only opens a web page in its normal browser. Everything runs on your own Wi-Fi, and nothing is uploaded to the internet.
 
+<img width="320" height="482" alt="Laptop_time" src="https://github.com/user-attachments/assets/b5b893aa-99a4-44ae-a90b-81753452c247" />
+<img width="192" height="310" alt="Phone_time" src="https://github.com/user-attachments/assets/07aeece2-be68-4ed2-b8d7-00242cdd86cf" />
+
+
+Both cameras photographed the same stopwatch after one shared trigger (cropped and enlarged, no other editing).
 ---
 
 ## How it works
